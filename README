@@ -1,6 +1,0 @@
-
-excute pod install
-
-两种请求类型
-一种是结果同步
-另一种是有序执行且可以随时取消请求并清除callback
